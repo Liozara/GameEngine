@@ -4,6 +4,7 @@
 
 //TODO Faire un truc bien inchallah
 //lalala teste voir si ça marche
+//test des trucs suites
 
 int main() {
 	glfwInit();
