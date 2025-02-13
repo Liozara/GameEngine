@@ -2,9 +2,6 @@
 #include "glad/glad.h"
 #include "GLFW/glfw3.h"
 
-//TODO Faire un truc bien inchallah
-//lalala teste voir si ça marche
-//test des trucs suites
 
 int main() {
 	glfwInit();
