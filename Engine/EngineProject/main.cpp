@@ -4,4 +4,5 @@
 
 int main() {
 	std::cout << "hello wsh" << std::endl;
+	std::cin.get();
 }
